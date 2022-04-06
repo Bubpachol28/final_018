@@ -1,0 +1,28 @@
+
+.card-body
+{
+ 
+    margin: 20px 0px 0px 3%;
+    padding: 20px 0px 0px 0px;
+    font-family: 'Kanit', sans-serif;
+    text-align: center;
+    font-size: 18;
+    color: rgb(0, 0, 0);  
+}
+.container
+{
+    margin-top: 5%;
+}
+.form-control
+{
+    margin-left: 2px;
+    margin-left: 2px;
+    border-radius: 10px;
+    
+}
+body 
+{
+    
+    background-color: #F5F5F5;
+    color: rgb(0, 0, 0);
+}
